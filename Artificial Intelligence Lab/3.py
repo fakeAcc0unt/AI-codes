@@ -1,3 +1,4 @@
+#8 puzzle
 from heapq import heappush, heappop
 
 # Define the goal state
