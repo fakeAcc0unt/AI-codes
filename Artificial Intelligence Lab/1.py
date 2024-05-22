@@ -1,3 +1,4 @@
+# Water jug
 class State:
     def __init__(self, jug1, jug2):
         self.jug1 = jug1
