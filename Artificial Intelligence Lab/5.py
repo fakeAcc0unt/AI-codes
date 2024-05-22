@@ -1,3 +1,4 @@
+# nqueen
 import copy
 import random
 
