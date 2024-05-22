@@ -1,3 +1,4 @@
+# min max
 import math
 
 #defining the minimax algorithm as a function
